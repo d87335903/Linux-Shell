@@ -1,5 +1,4 @@
 # Linux-Shell
-
 #tutorials
 http://www.learnshell.org/ learnshell<br>
 https://www.shellscript.sh/ shellscript<br>
@@ -8,3 +7,7 @@ https://tinylab.gitbooks.io/shellbook/content/   Shell 编程范例<br>
 #tool
 https://www.shellcheck.net/  shell check<br>
 https://www.tutorialspoint.com/execute_bash_online.php  shell online<br>
+#video
+http://study.163.com/course/introduction/838003.htm#/courseDetail [云知梦]Shell脚本编程<br>
+http://study.163.com/course/introduction/1238027.htm#/courseDetail 10天学会Shell编程<br>
+http://www.lthack.com/forum.php?mod=viewthread&tid=3757  尚观Shell视频教程<br>
