@@ -12,3 +12,4 @@ https://www.tutorialspoint.com/execute_bash_online.php  shell online<br>
 http://study.163.com/course/introduction/838003.htm#/courseDetail [云知梦]Shell脚本编程<br>
 http://study.163.com/course/introduction/1238027.htm#/courseDetail 10天学会Shell编程<br>
 http://www.lthack.com/forum.php?mod=viewthread&tid=3757  尚观Shell视频教程<br>
+http://www.imooc.com/learn/181  Linux Guide for Developers(happypeter)<br>
